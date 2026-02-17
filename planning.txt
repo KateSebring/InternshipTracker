@@ -1,0 +1,6 @@
+SpringBoot backend
+Ability to create an account and sign in/out
+Use auth filters so users can only access pages once they have logged in
+Homepage after login provides a table with all internships, their status, link, and internship title
+Include edit/delete buttons after each entry
+Learn Spring Security for password hashing as well
